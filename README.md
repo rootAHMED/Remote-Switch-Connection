@@ -1,1 +1,1 @@
-# Remote-Switch-Connection
+This tool allows you to execute switch commands remotely
